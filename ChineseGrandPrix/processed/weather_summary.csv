@@ -1,0 +1,6 @@
+Session,AirTemp_mean,AirTemp_max,TrackTemp_mean,TrackTemp_max,Humidity_mean,Rainfall
+FP1,13.0,14.0,21.3,27.7,36.7,False
+Sprint Qualifying,16.4,16.9,28.2,30.9,25.8,False
+Sprint,14.9,15.7,15.4,22.7,49.4,False
+Qualifying,17.8,18.3,31.0,32.5,34.4,False
+Race,15.6,16.4,22.6,27.6,55.0,False
